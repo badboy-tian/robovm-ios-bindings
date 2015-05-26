@@ -8,3 +8,7 @@ This is a robovm-ios-bingdings for Chinese Developers
 ##1.umenganalysics(3.5.8.0)##
 这是一个关于游戏友盟分析的IOS SDK的绑定(This is a umenganalysics for Chinese Developers)  
 示例:[http://blog.csdn.net/qq634416025/article/details/46009043]()
+
+##2.admob(use framework)(7.2.2)##
+这是一个关于游戏友盟分析的IOS SDK的绑定(This is a admob for Chinese Developers)  
+示例:[http://blog.csdn.net/qq634416025/article/details/46040089]()
