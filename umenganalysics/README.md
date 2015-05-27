@@ -57,4 +57,4 @@
     	return super.didFinishLaunching(application, launchOptions);
     }
 
-## 博客地址: [http://blog.csdn.net/qq634416025/article/details/46009043]() ##
+## 博客地址: http://blog.csdn.net/qq634416025/article/details/46009043 ##
