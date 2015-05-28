@@ -1,4 +1,4 @@
-###当前的bmob IOS SDK 版本为(Version):1.7.2###
+###当前的bmob IOS SDK 版本为(Version):1.5.7###
 # bmob IOS绑定(bmob)
 bmob是一个后端提供商,为用户提供
 
