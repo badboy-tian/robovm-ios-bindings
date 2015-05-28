@@ -11,4 +11,8 @@ This is a robovm-ios-bingdings for Chinese Developers
 
 ##2.admob(use framework)(Version 7.2.2)##
 这是一个关于游戏友盟分析的IOS SDK的绑定(This is a admob for Chinese Developers)  
-示例:http://blog.csdn.net/qq634416025/article/details/46040089
+示例:http://blog.csdn.net/qq634416025/article/details/46040089 
+
+##3.bmob(Version 1.5.7)##
+这是一个关于bmob的IOS SDK的绑定(This is a bmob for Chinese Developers)  
+示例:http://blog.csdn.net/qq634416025/article/details/46120397
