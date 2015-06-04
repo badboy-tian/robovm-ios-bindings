@@ -17,6 +17,6 @@ This is a robovm-ios-bingdings for Chinese Developers
 这是一个关于bmob的IOS SDK的绑定(This is a bmob for Chinese Developers)  
 示例:http://blog.csdn.net/qq634416025/article/details/46120397
 
-##4.有米(youmi Version 1.5.7)##
+##4.有米(youmi Version 4.7)##
 这是一个关于有米的IOS SDK的绑定(This is a youmi for Chinese Developers)  
 示例:http://www.i7play.com/archives/107
