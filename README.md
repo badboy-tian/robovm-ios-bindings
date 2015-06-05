@@ -20,3 +20,7 @@ This is a robovm-ios-bingdings for Chinese Developers
 ##4.有米(youmi Version 4.7)##
 这是一个关于有米的IOS SDK的绑定(This is a youmi for Chinese Developers)  
 示例:http://www.i7play.com/archives/107
+
+##5.多盟(dmob Version 4.x)##
+这是一个关于多盟的IOS SDK的绑定(This is a domob for Chinese Developers)  
+示例:http://www.i7play.com/archives/124
